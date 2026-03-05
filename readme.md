@@ -8,3 +8,6 @@ Dataset can be found [here](https://www.kaggle.com/mczielinski/bitcoin-historica
 
 [Vedio Explanation.](https://drive.google.com/drive/folders/1gq-36F2SdTWn50zjrWvfxPqxhK-umPQM?usp=sharing)
 
+A simple update onn...
+
+
